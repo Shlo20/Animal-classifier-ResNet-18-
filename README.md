@@ -35,6 +35,9 @@ models.
 - pandas
 - matplotlib
 
+## Environment Notes
+This project was developed and tested using PyTorch with CUDA 12.1 on an NVIDIA GPU
+
 ## How to Run
 Install dependencies:
 ```bash
